@@ -9,7 +9,8 @@ JavaScript, TypeScript, React, Next.js, Vite, Vercel, Axios, Formik, Node.js �
 
 ## Навчальні проекти / Featured Projects
 
-- WebStudio
+
+ WEBSTUDIO
 - https://github.com/Liliia-Fodorova/goit-markup-hw-06
 - Project description: Modern Business Landing Page
 Role: Developer (Individual Project).
@@ -18,7 +19,9 @@ Role: Developer (Individual Project).
  - Ensured high accessibility and cross-browser consistency through clean semantic HTML and standard-compliant styling.
  - Created smooth interactive user experiences and optimized page performance for fast loading.
 
-- CoffeeJoy
+   
+
+ COFFEEJOY
 - https://github.com/Liliia-Fodorova/project-devcrew5
 - Project description: Specialty Coffee Landing Page
 - Role: Frontend Developer (Team Project)
@@ -27,6 +30,8 @@ Role: Developer (Individual Project).
  - Optimized visual assets and clean semantic markup to maintain high loading speeds and cross-browser consistency.
 Feature Ownership (Quality): Built the product showcase section, utilizing an adaptive flexbox layout to optimize visual content across all device types.
 - Collaborated within a team environment, effectively using Git/GitHub for branching, merging, and resolving code conflicts.
+
+
   
 ## Мови / Languages
 [English](https://shields.io)
