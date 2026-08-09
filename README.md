@@ -40,3 +40,6 @@ Feature Ownership (Quality): Built the product showcase section, utilizing an ad
 [Dutch](https://shields.io)
 
 
+### 📬 How to reach me:
+[LinkedIn](www.linkedin.com/in/liliia-fodorova-107299409) | [Telegram](https://t.me/Liliya810) | [Email](nevskay22@gmail.com)
+
