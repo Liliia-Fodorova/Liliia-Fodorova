@@ -43,3 +43,6 @@ Feature Ownership (Quality): Built the product showcase section, utilizing an ad
 ### 📬 How to reach me:
 [LinkedIn](www.linkedin.com/in/liliia-fodorova-107299409) | [Telegram](https://t.me/Liliya810) | [Email](nevskay22@gmail.com)
 
+
+[![Liliia Fodorova profile views](https://u8views.com/api/v1/github/profiles/229702113/views/day-week-month-total-count.svg)](https://u8views.com/github/Liliia-Fodorova)
+
